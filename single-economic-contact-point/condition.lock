@@ -1,0 +1,5 @@
+economic_contact:
+  allowed: true
+  observable: false
+  optimizable: false
+  repeatable: not_enforced
